@@ -1,0 +1,14 @@
+baseURL = "https://example.org"
+languageCode = "en-US"
+title = "Example website"
+theme = "example"
+blackFriday = ""
+enableRobotsTXT = true
+
+[params]
+  author = "Victor Ocnarescu"
+  fonts = "https://fonts.googleapis.com/css?family=Libre+Baskerville|Source+Sans+Pro&display=swap"
+  description = ""
+  image = ""
+  favicon = ""
+  analytics = ""

@@ -1,0 +1,5 @@
+{{ range .Site.Pages }}
+<li class="border-green-600">
+  <a href="{{ .Permalink }}" class="block text-white">{{ .Title }}</a>
+</li>
+{{ end }}
