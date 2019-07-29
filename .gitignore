@@ -1,6 +1,7 @@
 # Hugo build directories
 public/
 resources/
+node_modules/
 
 # Binaries for programs and plugins
 *.exe

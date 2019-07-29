@@ -1,0 +1,29 @@
+{
+  "name": "hugo-tailwindcss-example",
+  "version": "0.1.0",
+  "description": "Example website built with Hugo and Tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "build": "hugo --gc --minify",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorocna/hugo-tailwindcss-example.git"
+  },
+  "keywords": [
+    "hugo",
+    "tailwindcss",
+    "netlify"
+  ],
+  "author": "victorocna <victor@chesscoders.com> (https://victorocna.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/victorocna/hugo-tailwindcss-example/issues"
+  },
+  "homepage": "https://github.com/victorocna/hugo-tailwindcss-example#readme",
+  "dependencies": {
+    "autoprefixer": "^9.6.1",
+    "postcss-cli": "^6.1.3"
+  }
+}
