@@ -1,4 +1,4 @@
-baseURL = "https://example.org"
+baseURL = "https://hugo-tailwindcss-example.netlify.com"
 languageCode = "en-US"
 title = "Example website"
 theme = "example"
