@@ -1,5 +1,5 @@
 [build]
-  command = "hugo --gc --minify"
+  command = "npm i postcss-cli autoprefixer && hugo --gc --minify"
   publish = "public"
 
 [[headers]]
