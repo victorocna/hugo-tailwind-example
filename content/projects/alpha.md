@@ -1,9 +1,9 @@
 ---
 title: Alpha
-color: "#c882bf" 
+color: "#c882bf"
 layout: projects
----
 
+---
 ## Alpha project
 
-Lorem ipsum dolor sin amet
+Lorem ipsum dolor sin amet :)
