@@ -1,0 +1,13 @@
+---
+label: Project Template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: color
+  label: color
+- type: text
+  name: layout
+  label: layout
