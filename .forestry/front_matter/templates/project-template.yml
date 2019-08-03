@@ -12,6 +12,7 @@ fields:
   config:
     required: false
     color_format: Hex
+  default: "#CE1515"
 - type: text
   name: layout
   label: layout
