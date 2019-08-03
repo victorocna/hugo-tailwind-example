@@ -1,6 +1,5 @@
 +++
 color = "#F8E71C"
-draft = true
 layout = ""
 title = "Delta"
 
