@@ -1,9 +1,9 @@
 ---
 title: Alpha
-color: "#c882bf"
+color: c882be
 layout: projects
 
 ---
 ## Alpha project
 
-Lorem ipsum dolor sin amet :)
+Bacon ipsum dolor amet jerky hamburger pastrami ham spare ribs pork bresaola t-bone tongue flank pork chop.

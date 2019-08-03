@@ -5,9 +5,10 @@ fields:
 - type: text
   name: title
   label: title
-- name: color
-  type: color
-  label: color
+- type: color
+  name: color
+  label: Background color
+  description: Just another color picker
   config:
     required: false
     color_format: Hex
