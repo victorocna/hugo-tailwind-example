@@ -1,6 +1,6 @@
 ---
 title: Alpha
-color: c882be
+color: "#C882BE"
 layout: projects
 
 ---
