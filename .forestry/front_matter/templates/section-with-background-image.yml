@@ -1,4 +1,10 @@
 ---
 label: Section with background image
 hide_body: true
-fields: []
+fields:
+- name: image_url
+  type: text
+  config:
+    required: true
+  label: image URL
+  description: The link to the image you wish to display on the background
